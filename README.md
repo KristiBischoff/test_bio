@@ -24,5 +24,4 @@ Use Plotly.js to build interactive charts for the dashboard.
 Deploy the Flask app to Heroku.
 
 ### ******Note*******
-Made an update to the requirements code.
 Additionally, this same code may be found in the plotly_biodiversity repository as there was a test for a different method of deploying to Heroku directly by linking Github in Heroku in this repository (compared to git bash.)
