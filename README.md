@@ -1,5 +1,8 @@
 # Belly Button Biodiversity with Plotly.js and Heroku
 
+### ******Note*******
+Additionally, this same code may be found in the plotly_biodiversity repository as there was a test for a different method of deploying to Heroku directly by linking Github in Heroku in this repository (compared to git bash.)
+
 ## Link to the deployed app:
 
 https://biodiversitywithplotly.herokuapp.com/
@@ -23,8 +26,6 @@ Use Plotly.js to build interactive charts for the dashboard.
 ## Step 2 - Heroku
 Deploy the Flask app to Heroku.
 
-### ******Note*******
-Additionally, this same code may be found in the plotly_biodiversity repository as there was a test for a different method of deploying to Heroku directly by linking Github in Heroku in this repository (compared to git bash.)
 
 ## Sample Dashboard
 ![biodiversity_dashboard](biodiversity_dashboard.png)
